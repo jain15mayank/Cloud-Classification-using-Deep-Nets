@@ -2,8 +2,7 @@
 
 With the spirit of reproducible research, this repository contains all the codes required to produce the results in the manuscript: 
 
-> Jain, M., Jain, N. and Dev, S.(2021). Improving Cloud Classification using Deep Neural Networks. In: International Geoscience and Remote Sensing Symposium. IEEE. 
-
+> Jain, M., Jain, N., Lee, Y. H., Winkler, S. and Dev, S.(2021). Improving Cloud Classification using Deep Neural Networks, *under review*. 
 
 The work is done using the Google Colab Framework (with GPU).
 
